@@ -1,0 +1,16 @@
+configure 
+
+git config --global user.name "radhikaranjith"
+git config --global user.email "kradhikakrish@gmail.com"
+
+
+
+git push commands
+--------------------
+
+
+git init
+git git add
+git remote add origin "url"
+git commit -m "commit label"
+git push -u origin master
