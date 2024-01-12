@@ -14,3 +14,9 @@ git git add
 git remote add origin "url"
 git commit -m "commit label"
 git push -u origin master
+
+SECOND PUSH
+
+git add .
+git commit -m "label"
+git push 
